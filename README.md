@@ -1,1 +1,3 @@
-# liquid-physics
+# MOBILE ONLY
+
+### Uses motion-detection on mobile
